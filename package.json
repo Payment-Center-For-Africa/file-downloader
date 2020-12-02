@@ -1,6 +1,6 @@
 {
   "name": "@mohcinenazrhan/file-downloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "File downloader for any web based project",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
