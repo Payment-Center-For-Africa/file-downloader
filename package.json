@@ -1,5 +1,5 @@
 {
-  "name": "@mohcinenazrhan/file-downloader",
+  "name": "@payment-center-for-africa/file-downloader",
   "version": "1.0.1",
   "description": "File downloader for any web based project",
   "main": "lib/index.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mohcinenazrhan/file-downloader.git"
+    "url": "git+https://github.com/payment-center-for-africa/file-downloader.git"
   },
   "author": "Mohcine NAZRHAN",
   "license": "ISC",
@@ -27,9 +27,9 @@
     "Download"
   ],
   "bugs": {
-    "url": "https://github.com/mohcinenazrhan/file-downloader/issues"
+    "url": "https://github.com/payment-center-for-africa/file-downloader/issues"
   },
-  "homepage": "https://github.com/mohcinenazrhan/file-downloader#readme",
+  "homepage": "https://github.com/payment-center-for-africa/file-downloader#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
