@@ -2,7 +2,7 @@
 
 > File downloader for any web-based project.
 
-[![NPM](https://img.shields.io/npm/v/@payment-center-for-africa/file-downloader.svg)](https://www.npmjs.com/package/file-downloader) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/@payment-center-for-africa/file-downloader.svg)](https://github.com/Payment-Center-For-Africa/file-downloader/packages/532406) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
