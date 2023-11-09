@@ -1,6 +1,6 @@
 import downloadFileDisposition, {
   downloadFile,
-} from '@mohcinenazrhan/file-downloader';
+} from '@payment-center-for-africa/file-downloader';
 import axios from 'axios';
 import logo from './logo.svg';
 import './App.css';

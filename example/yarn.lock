@@ -1383,7 +1383,7 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@mohcinenazrhan/file-downloader@file:..":
+"@payment-center-for-africa/file-downloader@file:..":
   version "1.0.1"
 
 "@nodelib/fs.scandir@2.1.3":
